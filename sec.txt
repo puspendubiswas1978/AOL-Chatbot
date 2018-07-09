@@ -1,0 +1,8 @@
+App ID : 902302419972847
+App Secret : 552b02cf15dcc79e44ca5fc894802d8e
+
+
+Page Access Token : EAAM0o6c48u8BAPc8DmYf0yZA7scf74DDVPHZCeG9hA4D3lW35uq49un27pZBIXf0NFr5oZCwHcOt0nfTKZBl25WgxwzZCffex5ZBJXM8uv0RYV50xSH1Q6JYiMRTRnoQQp3koOcp4BFNFjniB2jc8LAnuR6OmsujkSoJRxWDXPFxxOgZAdXeeLqi
+
+
+Callback URL : https://bots.dialogflow.com/facebook/20de5aff-5a4f-43eb-a68e-35b45de28f20/webhook

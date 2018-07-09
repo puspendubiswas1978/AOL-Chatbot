@@ -1,0 +1,7 @@
+D:\AOL Chatbot\RestService\WebClient\bin\WebClient.dll.config
+D:\AOL Chatbot\RestService\WebClient\bin\WebClient.dll
+D:\AOL Chatbot\RestService\WebClient\bin\WebClient.pdb
+D:\AOL Chatbot\RestService\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+D:\AOL Chatbot\RestService\WebClient\obj\Debug\WebClient.csproj.CoreCompileInputs.cache
+D:\AOL Chatbot\RestService\WebClient\obj\Debug\WebClient.dll
+D:\AOL Chatbot\RestService\WebClient\obj\Debug\WebClient.pdb

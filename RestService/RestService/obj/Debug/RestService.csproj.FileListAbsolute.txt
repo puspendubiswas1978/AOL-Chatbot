@@ -1,0 +1,7 @@
+D:\AOL Chatbot\RestService\RestService\bin\RestService.dll.config
+D:\AOL Chatbot\RestService\RestService\bin\RestService.dll
+D:\AOL Chatbot\RestService\RestService\bin\RestService.pdb
+D:\AOL Chatbot\RestService\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+D:\AOL Chatbot\RestService\RestService\obj\Debug\RestService.csproj.CoreCompileInputs.cache
+D:\AOL Chatbot\RestService\RestService\obj\Debug\RestService.dll
+D:\AOL Chatbot\RestService\RestService\obj\Debug\RestService.pdb

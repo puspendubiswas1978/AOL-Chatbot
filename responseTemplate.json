@@ -1,0 +1,7 @@
+{
+  "speech": "The stock price for [company] is $[stockprice][source]",
+  "displayText": "The stock price for [company] is $[stockprice][source]",
+  "data": { "k1": "v1" },
+  "contextOut": [],
+  "source": "service1"
+}
